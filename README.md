@@ -1,2 +1,4 @@
 # PolygonAreaCalculator
-Counts polygon are. Also creates the polygon image of stars sign
+Counts polygon area. Also creates the polygon image of stars sign
+# What I Learned
+- Inherit from parent class
